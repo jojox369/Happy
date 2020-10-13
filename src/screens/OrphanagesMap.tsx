@@ -7,7 +7,7 @@ import {FiPlus} from 'react-icons/fi';
 
 import 'leaflet/dist/leaflet.css'
 
-import '../styles/pages/ophanages-map.css';
+import '../styles/pages/orphanages-map.css';
 
 
 function OrphanagesMap(){
